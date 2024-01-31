@@ -1,0 +1,17 @@
+# Ignore compilation files
+*.o
+*.out
+
+
+# Ignore directories and files generated automatically
+node_modules/
+dist/
+.env
+
+#global 
+*.log
+/build/
+/.tmp
+
+#others
+.venv
