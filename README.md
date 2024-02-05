@@ -27,4 +27,9 @@ connected with bases, hardware, and infinite possibilities.
   
 - Connected your code with assistants through a protocol for change information
 
+</a>
+<details>
+<summary>Asistant Architecture</summary>
 
+![Asistant Architecture](https://superagi.com/wp-content/uploads/2023/09/SuperAGI-Architecture.png)
+</details>
