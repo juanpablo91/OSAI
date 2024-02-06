@@ -9,9 +9,9 @@
 
 # <span> Asis AI </span>
 
-**Documentation**: <a href="https://asis/" target="_blank">https://fastapi.tiangolo.com</a>
+**Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
-**Source Code**: <a href="https://github.com/tiangolo/fastapi" target="_blank">https://github.com/tiangolo/fastapi</a>
+**Source Code**: <a href="https://#" target="_blank">https://#</a>
 
 ### **Build AI, unique, autonomous, and connected**
 
