@@ -2,8 +2,8 @@
     <strong><em>Open source framework for AI personal deployment</em></strong>
 </p>
 
-> [!IMPORTANT] >**Pre Release March 05**, Personal computing was a >revolution that ?>democratized technology.
-> We also believe that Personal AI would be a democratizer of this revolution.
+> [!IMPORTANT]
+> **Pre Release March 05**
 
 # <span> Asis AI </span>
 
@@ -75,6 +75,3 @@ An intelligent agent is an entity capable of perceiving its environment, process
 
 > [!Note]
 > Comming soon
-
-> [!NOTE]
-> More tools will be added in the future
