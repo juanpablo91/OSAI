@@ -2,8 +2,7 @@
     <strong><em>Open source framework for AI personal deployment</em></strong>
 </p>
 
-> [!IMPORTANT]
-> **Pre Release March 05**, Personal computing was a >revolution that democratized technology.
+> [!IMPORTANT] > **Pre Release March 05**, Personal computing was a >revolution that democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
 
 # <span> Asis AI </span>
@@ -45,7 +44,6 @@ Thats are tools per default
 
 - **Asis Chat:** Agent specific for chat between asistants ,change information about patrons,schedule and more,through a friend request.
 
-> [!NOTE]
 > More tools will be added in the future
 
 #### 💡 Memory
@@ -53,14 +51,10 @@ Thats are tools per default
 The memory of asistants will be managed by diferent algorithms
 for long time and short time, save basic information
 
-> [!NOTE]
 > Images,video and algotims more complicated Will be added in the ??/?
 > future
 
 #### :brain: Super Agent
-
-> [!Note]
-> Comming soon
 
 The super agent is the main agent, it receives all the information from its environment, it handles decisions and communicates with the main model to solve complex problems in an autonomous and self-improving way.
 
@@ -68,7 +62,6 @@ The super agent is the main agent, it receives all the information from its envi
 
 An intelligent agent is an entity capable of perceiving its environment, processing such perceptions and responding or acting in said environment in a rational manner, that is, achieving objectives.
 
-> [!IMPORTANT]
 > We ara interested in apply code for <a href=https://github.com/Significant-Gravitas/AutoGPT target="_blank">AutoGPT</a>, this is a open source project for create agents
 
 </details>
