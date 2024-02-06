@@ -1,5 +1,5 @@
 <p align="center">
-    <strong><em>Open-source framework for AI personal deployment</em></strong>
+    <strong><em>Open-source framework for personal AI deployment</em></strong>
 </p>
 
 > [!IMPORTANT]
@@ -15,7 +15,7 @@
 
 ### **Build AI, unique, autonomous, and connected**
 
-Asis is an open-source framework for the deployment of an ecosystem of assistants based on the term "AI personal" that personalizes and connects with any software through a middle layer of libraries and standards. It can exchange information, models, functions, and create tools connected with databases, hardware, and infinite possibilities.
+Asis is an open-source framework for the deployment of an ecosystem of assistants based on the term "Personal AI" that personalizes and connects with any software through a middle layer of libraries and standards. It can exchange information, models, functions, and create tools connected with databases, hardware, and infinite possibilities.
 
 ### ⭐ The Key features will be:
 
