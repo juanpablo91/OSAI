@@ -75,3 +75,6 @@ An intelligent agent is an entity capable of perceiving its environment, process
 
 > [!Note]
 > Comming soon
+
+> [!NOTE]
+> More tools will be added in the future
