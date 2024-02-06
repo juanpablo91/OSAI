@@ -1,15 +1,15 @@
+# <span> Asis AI </span>
+
+---
+
 <p align="center">
     <strong><em>Open-source framework for personal AI deployment</em></strong>
 </p>
 
-> [!IMPORTANT]
-> **Pre-Release March 05**: Personal computing was a revolution that
+> [!IMPORTANT] > **Pre-Release March 05**: Personal computing was a revolution that
 > Democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
-
-# <span> Asis AI </span>
-
-**Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
+> **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
 **Source Code**: <a href="https://#" target="_blank">https://#</a>
 
