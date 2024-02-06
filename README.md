@@ -55,7 +55,7 @@ for long time and short time, save basic information
 > [!NOTE]
 > Images,video and algotims more complicated Will be added in the future
 
-#### 💻 Super Agent
+#### :brain: Super Agent
 
 The super agent is the main agent, it receives all the information from its environment, it handles decisions and communicates with the main model to solve complex problems in an autonomous and self-improving way.
 
