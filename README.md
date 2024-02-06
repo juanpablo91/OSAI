@@ -2,7 +2,8 @@
     <strong><em>Open source framework for AI personal deployment</em></strong>
 </p>
 
-> [!IMPORTANT] >**Pre Release March 05**, Personal computing was a >revolution that ?>democratized technology.
+> [!IMPORTANT]
+> **Pre Release March 05**, Personal computing was a >revolution that democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
 
 # <span> Asis AI </span>
@@ -19,7 +20,7 @@ connected with bases, hardware, and infinite possibilities.
 
 ### ⭐ The Key features will be:
 
-- **Personalizes:** Create an assistant with voice personalizes, tools default, a memory, a model LLM, and agents, all can be personalizes.
+- **Personalizes:** Create an assistant with voice personalizes, tools default, a memory, a model LLM, and agents, all can be personalized.
 - **Algorithms:** Choose to create different algorithms for managing the memory, generating agents and autonomous behaviors, manipulating data for the assistant, etc.
 - Communication between assistants
 - Connected your code with assistants through a protocol for change information
