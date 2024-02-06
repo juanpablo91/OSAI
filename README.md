@@ -2,7 +2,7 @@
     <strong><em>Open source framework for AI personal deployment</em></strong>
 </p>
 
-> [!IMPORTANT] > **Pre Release March 05**, Personal computing was a revolution that democratized technology.
+> [!IMPORTANT] > **Pre Release March 05**, Personal computing was a revolution that ?>democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
 
 # <span> Asis AI </span>
@@ -53,7 +53,8 @@ The memory of asistants will be managed by diferent algorithms
 for long time and short time, save basic information
 
 > [!NOTE]
-> Images,video and algotims more complicated Will be added in the future
+> Images,video and algotims more complicated Will be added in the ??/?
+> future
 
 #### :brain: Super Agent
 
