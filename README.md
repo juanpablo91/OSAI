@@ -3,7 +3,7 @@
 </p>
 
 > [!IMPORTANT]
-> **Pre Release March 05**> **Pre Release March 05**, Personal computing was a >revolution that democratized technology.
+> **Pre Release March 05**, Personal computing was a >revolution that democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
 
 # <span> Asis AI </span>
@@ -58,6 +58,9 @@ for long time and short time, save basic information
 > future
 
 #### :brain: Super Agent
+
+> [!Note]
+> Comming soon
 
 The super agent is the main agent, it receives all the information from its environment, it handles decisions and communicates with the main model to solve complex problems in an autonomous and self-improving way.
 
