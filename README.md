@@ -2,7 +2,9 @@
     <strong><em>Open-source framework for AI personal deployment</em></strong>
 </p>
 
-> [!IMPORTANT] > **Pre-Release March 05**: Personal computing was a revolution that democratized technology.
+> [!IMPORTANT]
+> **Pre-Release March 05**: Personal computing was a revolution that
+> Democratized technology.
 > We also believe that Personal AI would be a democratizer of this revolution.
 
 # <span> Asis AI </span>
