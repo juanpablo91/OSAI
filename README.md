@@ -1,4 +1,4 @@
-# <span> Asis AI </span>
+# <span> Asis </span>
 
 <p align="center">
     <strong><em>Open-source framework for personal AI deployment</em></strong>
