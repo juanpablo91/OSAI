@@ -15,3 +15,9 @@ dist/
 
 #others
 .venv
+
+
+#pyhon pypi file configuration
+setup.py
+asis.egg-info
+.pypirc
