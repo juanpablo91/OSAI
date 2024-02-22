@@ -19,8 +19,6 @@ with established standards and rules, creating a transparent and competitive wor
 
 Asis is a set of standards,rules and framework for the deployment of an ecosystem of AI, based in "Personal AI", Concept analogous to personal computing and how it revolutionized the history of humanity.
 
----
-
 ## Main Features
 
 <p>
