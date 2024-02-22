@@ -4,7 +4,8 @@
     <strong><em>Open-Source AI Is Good for Us</em></strong>
 </p>
 
-> [!IMPORTANT] **Pre-Release March 05**
+> [!IMPORTANT]
+> **Pre-Release March 05**
 
 ---
 
