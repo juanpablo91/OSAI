@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: asisai
-Version: 0.2.0a1
+Version: 0.2.1a1
 Summary: UNKNOWN
 Home-page: UNKNOWN
 License: UNKNOWN
@@ -14,13 +14,14 @@ License-File: LICENSE
     <strong><em>Open-Source AI Is Good for Us</em></strong>
 </p>
 
-> [!IMPORTANT] > **Alpha March 15**
+> [!IMPORTANT]
+> **Alpha March 15**
 
 ---
 
 #### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
-#### **Source Code**: <a href="https://#" target="_blank">https://#</a>
+#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://github.com/juanpablo91/Asis</a>
 
 ---
 
@@ -94,11 +95,11 @@ Examples:
 Install:
 
 ```shell
-$ pip install asis
+$ pip install asisai
 ```
 
 ```python
->>> Import asis as ASIS
+>>> from  asisai import asis
 
 
 

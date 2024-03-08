@@ -1,4 +1,6 @@
-# <span>ASIS: Artificial Intelligence Standard Software </span>
+![LOGO](/source/LOGO.png)
+
+# <span align="center"> Artificial Intelligence Standard Software </span>
 
 <p align="center">
     <strong><em>Open-Source AI Is Good for Us</em></strong>
@@ -6,8 +8,6 @@
 
 > [!IMPORTANT]
 > **Alpha March 15**
-
----
 
 #### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
@@ -47,8 +47,6 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | **Communication:** | Name, description, model llm, a memory,agents(voice agent will be added in a future release) |
 | **Libraries**      | Model llm open source o commercial (More info bellow )                                       |
 
-TODO::update this table
-
 ## Get started
 
 > [!Note]
@@ -87,6 +85,8 @@ Install:
 ```shell
 $ pip install asisai
 ```
+
+#### **pypi**: <a href="https://pypi.org/project/asisai/" target="_blank">https://pypi.org/project/asisai/</a>
 
 ```python
 >>> from  asisai import asis
