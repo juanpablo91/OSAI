@@ -4,14 +4,13 @@
     <strong><em>Open-Source AI Is Good for Us</em></strong>
 </p>
 
-> [!IMPORTANT]
-> **Alpha March 15**
+> [!IMPORTANT] > **Alpha March 15**
 
 ---
 
 #### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
-#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://#</a>
+#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://github.com/juanpablo91/Asis</a>
 
 ---
 
