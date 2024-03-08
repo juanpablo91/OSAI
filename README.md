@@ -1,4 +1,4 @@
-![LOGO](/source/LOGO.png)
+![LOGO](/source/logo.png)
 
 # <span align="center"> Artificial Intelligence Standard Software </span>
 
