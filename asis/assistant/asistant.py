@@ -43,4 +43,5 @@ my_assistant.add_to_memory("data1", "information1")
 # Show updated information
 my_assistant.show_information()
 
-
+bbb
+jkjjjj

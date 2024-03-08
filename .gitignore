@@ -15,6 +15,7 @@ dist/
 
 #others
 .venv
+requirements.txt
 
 
 #pyhon pypi file configuration

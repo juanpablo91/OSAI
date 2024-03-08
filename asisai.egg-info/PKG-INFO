@@ -1,17 +1,26 @@
+Metadata-Version: 2.1
+Name: asisai
+Version: 0.2.0a1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # <span>ASIS: Artificial Intelligence Standard Software </span>
 
 <p align="center">
     <strong><em>Open-Source AI Is Good for Us</em></strong>
 </p>
 
-> [!IMPORTANT]
-> **Alpha March 15**
+> [!IMPORTANT] > **Alpha March 15**
 
 ---
 
 #### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
-#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://#</a>
+#### **Source Code**: <a href="https://#" target="_blank">https://#</a>
 
 ---
 
@@ -58,7 +67,7 @@ TODO::update this table
 
 #### What is a Entity AI?
 
-A fundamental concept of ASIS is The AI ​​​​Entity, where each person, company, even space or place can be personified in a digital version, starting from a seed of a foundational model, where each of these is managed independently and personalized.
+A fundamental concept of ASIS is The AI â€‹â€‹â€‹â€‹Entity, where each person, company, even space or place can be personified in a digital version, starting from a seed of a foundational model, where each of these is managed independently and personalized.
 
 Basic Caracteristis:
 
@@ -154,3 +163,5 @@ Discord
 ## License
 
 [Apache License 2.0](LICENSE)
+
+

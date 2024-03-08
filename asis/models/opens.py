@@ -7,7 +7,7 @@ class OpensModels:
         self.available_models = [
             {"name": "OpenAI GPT-2", "model_id": "gpt2"},
             {"name": "OpenAI GPT-3", "model_id": "EleutherAI/gpt-neo-2.7B"},
-            {"name": "Mixtral 8x7B", "model_id": "mistralai/Mixtral-8x7B-Instruct-v0.1"},
+            {"name": "Mixtral 8x7B", "model_id": "m`tralai/Mixtral-8x7B-Instruct-v0.1"},
             
             # Add more models as needed
         ]
