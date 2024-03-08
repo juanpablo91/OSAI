@@ -4,7 +4,8 @@
     <strong><em>Open-Source AI Is Good for Us</em></strong>
 </p>
 
-> [!IMPORTANT] > **Alpha March 15**
+> [!IMPORTANT]
+> **Alpha March 15**
 
 ---
 
@@ -84,11 +85,11 @@ Examples:
 Install:
 
 ```shell
-$ pip install asis
+$ pip install asisai
 ```
 
 ```python
->>> Import asis as ASIS
+>>> from  asisai import asis
 
 
 
