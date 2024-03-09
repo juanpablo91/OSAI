@@ -1,33 +1,26 @@
 import requests
 from transformers import AutoModel, AutoTokenizer
 
-class OpensModels:
-    def __init__(self):
-        # Define a list of available open-source models
-        self.available_models = [
-            {"name": "OpenAI GPT-2", "model_id": "gpt2"},
-            {"name": "OpenAI GPT-3", "model_id": "EleutherAI/gpt-neo-2.7B"},
-            {"name": "Mixtral 8x7B", "model_id": "m`tralai/Mixtral-8x7B-Instruct-v0.1"},
-            
-            # Add more models as needed
-        ]
 
-    def list_models(self):
-        # Display the list of available open-source models
-        for model in self.available_models:
-            print(f"{model['name']} - Model ID: {model['model_id']}")
+from ASIS.models import available_models
 
-    def download_model(self, model_id):
-        # Download the selected model files using Hugging Face Transformers
-        model = AutoModel.from_pretrained(model_id)
-        tokenizer = AutoTokenizer.from_pretrained(model_id)
+loaded_models = {}
 
-        # You can further process or use the downloaded model as needed
+def load_model(model_name):
+    if model_name not in loaded_models:
+        module = __import__(f"asis.models.{model_name}", fromlist=[""])
+        config_module = __import__(f"asis.config.{model_name}_config", fromlist=[""])
+        # Puedes inicializar el modelo con la configuración si es necesario
+        model_instance = module.Model(config_module.config)
+        loaded_models[model_name] = model_instance
+    return loaded_models[model_name] 
 
-# Example usage:
-open_source_models = OpensModels()
-open_source_models.list_models()
+from uploadmodel import UploadModel
 
-# Let's say the user selects "OpenAI GPT-3"
-selected_model_id = "EleutherAI/gpt-neo-2.7B"
-open_source_models.download_model(selected_model_id)
+class OpensModels():
+    def __init__(self,model_info):
+        self.model_info = model_info
+        
+    uploader = (self.model_info["model_id"]+"()")
+    
+    

@@ -1,8 +1,13 @@
-class Assistant:
-    def __init__(self, name, description, model, model_config, main_agent, tools, memory=None):
+
+
+
+
+
+class Asis:
+    def __init__(self, name, description, model_Name, model_config, main_agent, tools, memory=None):
         self.name = name
         self.description = description
-        self.model = model
+        self.mode_Name = model_Name
         self.model_config = model_config
         self.main_agent = main_agent
         self.tools = tools
@@ -16,16 +21,23 @@ class Assistant:
         print(f"Main Agent: {self.main_agent}")
         print(f"Tools: {', '.join(self.tools)}")
         print(f"Memory: {self.memory}")
+    \
+        
         
     def __str__(self):
         return f"Name: {self.name} , Description: {self.description} , Model: {self.model}"
+    
+    def loadModel(self, model):
+        Model
+        
 
 
-    def add_to_memory(self, key, value):
+    def add_to_memory(self,):
         self.memory[key] = value
 
-# Create an instance of Assistant
-my_assistant = Assistant(
+
+
+my_assistant = Asis(
     name="Asis1",
     description="Test Assistant",
     model="Model1",
@@ -42,6 +54,3 @@ my_assistant.add_to_memory("data1", "information1")
 
 # Show updated information
 my_assistant.show_information()
-
-bbb
-jkjjjj
