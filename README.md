@@ -18,13 +18,7 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 
 # Main Features
 
-<p>
-    <em>Some of the main features of ASIS include:</em>
-</p>
-
 #### Assistant
-
----
 
 | Feature              | Description                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------------- |
@@ -34,8 +28,6 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | **Tools**            | Tools pre instated in your assistant, for revolve many problems through agents (coming soon) |
 
 #### Platform for development
-
----
 
 | Feature            | Description                                        |
 | ------------------ | -------------------------------------------------- |
