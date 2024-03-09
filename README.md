@@ -2,7 +2,8 @@
 
 # <span align="center"> Artificial Intelligence Standard Software </span>
 
-> [!IMPORTANT] > **Alpha March 15** this project yet is experimental
+> [!IMPORTANT]
+> **Alpha March 15** this project yet is experimental
 
 #### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
 
@@ -155,7 +156,7 @@ ASIS is an experiment still in very early development, it should not be taken fo
 
 ## Join our community
 
-[Discord 💬](https://discord.com/channels/1215909939810144317/1215909991270060043)
+[Discord](https://discord.com/channels/1215909939810144317/1215909991270060043)
 
 ## License
 

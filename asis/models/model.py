@@ -15,11 +15,13 @@ class Model:
         
         print(self.modelInfo)
         
+    def upload_model(self.modelInfo):
+        if self.modelType:
+            openmodels = OpenModels(self.modelInfo)
+    
 
 
-        
-
- 
 mymodel = Model("Mistral 7B Instructv02")
+mymodel(Mistral7BInstructv02())
     
         
