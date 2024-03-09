@@ -4,9 +4,11 @@
 
 
 # Ignore directories and files generated automatically
+asisai.egg-info/
 node_modules/
 dist/
 .env
+
 
 #global 
 *.log
