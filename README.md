@@ -35,17 +35,17 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | **Personalized**     | Name, description, model llm, a Basic memory. (voice will be added in a future)                                                                   |
 | **Choose the Model** | Model llm open source o commercial (More info bellow)                                                                                             |
 | **Algorithms**       | create or download different algorithms for managing memory, generating agents and autonomous behaviors, manipulating data for the assistant, etc |
-| **Agents**           | Agents pre instated for your assistant (5 agents will be dev in beta version)                                                                     |
+| **Agents**           | Agents pre instated for your assistant (2 agents will be dev in alpha version)                                                                    |
 | **Tools**            | Tools pre instated in your assistant, for revolve many problems through agents                                                                    |
 
 #### Platform for development
 
 ---
 
-| Feature            | Description                                                                                  |
-| ------------------ | -------------------------------------------------------------------------------------------- |
-| **Communication:** | Name, description, model llm, a memory,agents(voice agent will be added in a future release) |
-| **Libraries**      | Model llm open source o commercial (More info bellow )                                       |
+| Feature            | Description                                        |
+| ------------------ | -------------------------------------------------- |
+| **Communication:** | communication among assistants used a protocol     |
+| **protocols**      | Development software using the assistants with API |
 
 ## Get started
 
