@@ -16,7 +16,7 @@ with established standards and rules, creating a transparent and competitive wor
 
 Asis is a set of standards,rules and framework for the deployment of an ecosystem of AI, based in "Personal AI", Concept analogous to personal computing and how it revolutionized the history of humanity.
 
-## Main Features
+# Main Features
 
 <p>
     <em>Some of the main features of ASIS include:</em>
@@ -42,18 +42,18 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | **Communication:** | communication among assistants used a protocol     |
 | **protocols**      | Development software using the assistants with API |
 
-## Get started
+# Get started
 
 > [!Note]
 > This version only work in local mode
 
-### **Create a Assistant**
+### **1. Create a Assistant**
 
 #### What is a Entity AI?
 
 A fundamental concept of ASIS is The AI ​​​​Entity, where each person, company, even space or place can be personified in a digital version, starting from a seed of a foundational model, where each of these is managed independently and personalized.
 
-Basic Caracteristis:
+**Basic Caracteristis:**
 
 - Memory long time
 - Nickname
@@ -62,7 +62,7 @@ Basic Caracteristis:
 - Tools default
 - Agents default
 
-Examples:
+**Examples:**
 
 - Michael is a makeup artist and his assistant, called "Mills", is his AI version, managing his clients' schedules, answering questions and calls, connecting with his friends' assistants to go out on weekends, exchanging work with his colleagues.
 
