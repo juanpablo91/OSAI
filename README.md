@@ -1,15 +1,15 @@
 ![LOGO](/source/logo.png)
 
-# <span align="center"> Artificial Intelligence Standard Software </span>
-
-#### **Documentation**: <a href="https://asis/#" target="_blank">https://#</a>
-
-#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://github.com/juanpablo91/Asis</a>
-
 > [!IMPORTANT]
 > **Alpha March 15** this project yet is experimental
 
----
+# <span align="center"> Artificial Intelligence Standard Software </span>
+
+#### **Documentation**: <a href="https://asisai.co" target="_blank">https://asisai.co</a>
+
+#### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://github.com/juanpablo91/Asis</a>
+
+### Introduction
 
 We believe in open source AI to democratize technology, provide opportunities and development,
 with established standards and rules, creating a transparent and competitive world for the benefit of all.
@@ -17,6 +17,8 @@ with established standards and rules, creating a transparent and competitive wor
 Asis is a set of standards,rules and framework for the deployment of an ecosystem of AI, based in "Personal AI", Concept analogous to personal computing and how it revolutionized the history of humanity.
 
 # Main Features
+
+---
 
 ### Assistant
 
@@ -35,6 +37,8 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | **protocols**      | Development software using the assistants with API |
 
 # Get started
+
+---
 
 > [!Note]
 > This version only work in local mode
