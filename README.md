@@ -1,7 +1,6 @@
 ![LOGO](/source/logo.png)
 
-> [!IMPORTANT]
-> **Alpha March 15** this project yet is experimental
+> [!IMPORTANT] > **Alpha March 15** this project yet is experimental
 
 # <span align="center"> Artificial Intelligence Standard Software </span>
 
@@ -9,12 +8,9 @@
 
 #### **Source Code**: <a href="https://github.com/juanpablo91/Asis" target="_blank">https://github.com/juanpablo91/Asis</a>
 
-## Introduction
+Asis is a set of standards, rules and also a framework for the deployment of an AI ecosystem, based on "Personal AI", a concept analogous to personal computing.
 
-We believe in open source AI to democratize technology, provide opportunities and development,
-with established standards and rules, creating a transparent and competitive world for the benefit of all.
-
-Asis is a set of standards,rules and framework for the deployment of an ecosystem of AI, based in "Personal AI", Concept analogous to personal computing and how it revolutionized the history of humanity.
+Asis is a set of standards, rules and also a framework for the deployment of an AI ecosystem, based on "Personal AI", a concept analogous to personal computing, applying an artificial intelligence for each user, tailored to their needs and complexity, with end-to-end customization, name, model, voice, all at the user's request, as well as total freedom to install agents and applications in their assistant, and a communication protocol between software and/or assistants based on three fundamental rules: unique, connected and autonomous.
 
 # Main Features
 
@@ -33,6 +29,28 @@ Asis is a set of standards,rules and framework for the deployment of an ecosyste
 | ------------------ | -------------------------------------------------- |
 | **Communication:** | communication among assistants used a protocol     |
 | **protocols**      | Development software using the assistants with API |
+
+# Introduction
+
+Three main pillars of ASIS:
+
+- Unique
+
+each assistant is highly customizable, from its bases such as name, voice, memory, model, tools, this must be maintained over time, the more information an assistant receives the more special it is and the user only needs one to be more and more accurate to their needs.
+
+- Connection
+
+each assistant must be able to connect to other assistants, as well as to all software and hardware through agents with protocols and libraries, for a secure and scalable network.
+
+- Autonomous
+
+each assistant must have algorithms, tools and agents to be autonomous and improve over time, always improving for the benefit of the user.
+
+---
+
+## Distros
+
+Another fundamental part of asis, are the distros that work much like linux, where the distros are third party software, where the focus is on providing a GUI and tools to manage, host and secure the information related to each attendee.
 
 # Get started
 
