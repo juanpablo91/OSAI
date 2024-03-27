@@ -1,6 +1,7 @@
 ![LOGO](/source/logo.png)
 
-> [!IMPORTANT] > **Alpha March 15** this project yet is experimental
+> [!IMPORTANT]
+> **Alpha March 15** this project yet is experimental
 
 # <span align="center"> Artificial Intelligence Standard Software </span>
 
@@ -30,40 +31,16 @@ Asis is a set of standards, rules and also a framework for the deployment of an 
 | **Communication:** | communication among assistants used a protocol     |
 | **protocols**      | Development software using the assistants with API |
 
-# Introduction
-
-Three main pillars of ASIS:
-
-- Unique
-
-each assistant is highly customizable, from its bases such as name, voice, memory, model, tools, this must be maintained over time, the more information an assistant receives the more special it is and the user only needs one to be more and more accurate to their needs.
-
-- Connection
-
-each assistant must be able to connect to other assistants, as well as to all software and hardware through agents with protocols and libraries, for a secure and scalable network.
-
-- Autonomous
-
-each assistant must have algorithms, tools and agents to be autonomous and improve over time, always improving for the benefit of the user.
-
----
-
-## Distros
-
-Another fundamental part of asis, are the distros that work much like linux, where the distros are third party software, where the focus is on providing a GUI and tools to manage, host and secure the information related to each attendee.
-
 # Get started
-
----
 
 > [!Note]
 > This version only work in local mode
 
 ### **1. Create a Assistant**
 
-#### What is a Entity AI?
+#### Asistant
 
-A fundamental concept of ASIS is The AI ​​​​Entity, where each person, company, even space or place can be personified in a digital version, starting from a seed of a foundational model, where each of these is managed independently and personalized.
+un conmcepto fundamental son los asistentes, estos pueden ser asignados a cualquier objeto que tenga la suficiente informacion para que sea util ej:empleados, personas, mascotas,edificios o lugares, empresas.
 
 **Basic Caracteristis:**
 
