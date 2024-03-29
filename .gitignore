@@ -3,11 +3,25 @@
 *.out
 
 
-# Ignore directories and files generated automatically
-asisai.egg-info/
-node_modules/
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
 dist/
-.env
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+node_modules/
+parts/
+sdist/
+var/
+package*.json
+*.egg-info/
+.installed.cfg
+*.egg
 
 
 #global 
@@ -15,12 +29,16 @@ dist/
 /build/
 /.tmp
 
-#others
-.venv
-requirements.txt
 
+# virtualenv
+.venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#others
+.vscode
 
 #pyhon pypi file configuration
-setup.py
-asis.egg-info
 .pypirc

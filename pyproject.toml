@@ -1,24 +1,6 @@
-[project]
-name = "ASIS"
-version = "0.1.0-ALPHA.1"
-authors = [
-  { name="JUAN PABLO", email="jpablogonzalezrod@gmail.com" },
-]
-description = "Artificial Intelligence Standard Software, Open source framework for AI
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
 
-We believe in open source AI to democratize technology, provide opportunities and development,
-with established standards and rules, creating a transparent and competitive world for the benefit of all.
 
-Asis is a set of standards,rules and framework for the deployment of an ecosystem of AI, based in "Personal AI", Concept analogous to personal computing and how it revolutionized the history of humanity.
-
-"
-readme = "README.md"
-requires-python = ">=3.8"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: Apache License",
-    "Operating System :: OS Independent",
-]
-
-[project.urls]
-Homepage = "https://github.com/juanpablo91/Asis"
+#setup is old visit PEP 518. https://peps.python.org/pep-0518/
